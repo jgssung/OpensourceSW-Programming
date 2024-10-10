@@ -1,2 +1,1 @@
-B
-
+text file b
